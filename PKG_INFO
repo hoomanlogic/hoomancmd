@@ -1,0 +1,19 @@
+Metadata-Version: 1.1
+Name: hoomancmd
+Version: 0.1.0
+Summary: Command-line interface extends python's cmd.Cmd utiling the hoomanlogic text-based human language input framework.
+Home-page: http://github.com/hoomanlogic/hoomancmd/
+Author: Geoffrey Floyd
+Author-email: geoffrey.floyd@hoomanlogic.com
+License: Apache Software License v2.0
+Download-URL: http://github.com/hoomanlogic/hoomancmd/
+Description: Command-line interface extends python's cmd.Cmd utiling the hoomanlogic text-based human language input framework.
+Platform: Any
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Text Processing
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
