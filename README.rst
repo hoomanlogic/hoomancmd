@@ -7,7 +7,8 @@ What is hoomancmd?
 ====================
 
 hoomancmd is a command-line interface that extends python's cmd.Cmd utilizing the hoomanlogic text-based human language input
-framework.
+framework. The primary objective of hoomancmd is to make the command-line friendly and intuitive without limiting the raw 
+power that only command-line and language based input can provide.
 
 
 Installing hoomancmd
